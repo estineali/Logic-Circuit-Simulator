@@ -36,15 +36,15 @@ Rest of the code is rather self explanatory. It's userfriendly and performs the 
     >basic_simplify(x)
     >spinal_cord()
 
-Function Description:
-# and_gate(a,b)
-    The and_gate takes two lists. These are truth table inputs. And returns a list with all possible outputs after
-    AND-ing them.
-    For example:
-        >>> c = [0, 0, 1, 1]
-        >>> d = [0, 1, 0, 1]
-        >>> and_gate(c, d)
-        [0, 0, 0, 1]
+# Function Description:
+    # and_gate(a,b)
+        The and_gate takes two lists. These are truth table inputs. And returns a list with all possible outputs after
+        AND-ing them.
+        For example:
+            >>> c = [0, 0, 1, 1]
+            >>> d = [0, 1, 0, 1]
+            >>> and_gate(c, d)
+            [0, 0, 0, 1]
 # or_gate(a,b)
     The or_gate takes two lists. These are truth table inputs. And returns a list with all possible outputs after
     OR-ing them.
