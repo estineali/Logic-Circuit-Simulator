@@ -1,13 +1,13 @@
 # Logic Circuit Simulator
 
 
-Welcome to the logic circuit simulator.
+Welcome to the logic circuit simulator by The Pegasus Noodles.
 This is our project for CS102-Data Structures and Algorithms Spring'18
 
-# TEAM MEMBERS:
+# Noodles:
     >Hashim Abbas
-    >Bilal Mohiuddin
     >Muhammad Shahrom Ali
+    >Bilal Mohiuddin
 
 The software takes a logic expression as input evaluates it giving the truth-table output and the
 circuit schematics. Please use brackets. ~A+~B+~C+~D*E is not the same as ~A+~B+~C+(~D*E). 
